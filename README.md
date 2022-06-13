@@ -4,5 +4,7 @@ my site link: file:///C:/Users/Nomare/Desktop/Bootcamp/Homework/refactor-week01/
 This is the process I used:
 Changed website name to Horiseon Homepage-->
 Added a div style to make the search engine shift to the right-->
-Added a nav--> 
+Added a nav.
+
 Added display inline to make them sit side by side-->
+Added display inline to change the behaviour
