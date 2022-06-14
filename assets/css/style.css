@@ -4,10 +4,13 @@
     margin: 0;
 }
 
+
+/* will give the background a color*/
 body {
     background-color: #d9dcd6;
 }
 
+/* will treat all the headers as a whole including padding, font-family, background color and color*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +18,7 @@ body {
     color: #ffffff;
 }
 
+/* these will position the nav bar and give it a font size*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +27,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* edits the nav bar*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -188,6 +192,7 @@ p {
     font-size: 36px;
 }
 
+/*edits the footer*/
 .footer {
     padding: 30px;
     clear: both;
